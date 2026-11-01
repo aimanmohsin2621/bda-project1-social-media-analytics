@@ -43,10 +43,8 @@ Author: AIMAN (ID:F2023376387)
 ## Files
 
 | File | Description |
-|---|---|
+
 | `Project1_Social_Media_Analytics.ipynb` | Full analysis notebook with outputs |
-| `Project1_Report.pdf` | Written report |
-| `figures/` | Charts used in the report |
 
 ## Next step
 
